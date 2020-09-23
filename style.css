@@ -1,0 +1,31 @@
+.jumbotron-fluid {
+    background-color: rgb(117, 183, 241);
+}
+
+.row {
+    background-color: lightgray;
+}
+
+.favorable {
+    color: black;
+    background-color: #94f394;
+}
+
+.moderate {
+    color: black;
+    background-color: rgb(252, 246, 132);
+}
+
+.severe {
+    color: white;
+    background-color: rgb(239, 137, 137);
+}
+
+.badge {
+    font-size: 100%;
+}
+
+#weather-icon {
+    max-width: 50px;
+    max-height: 50px;
+}
