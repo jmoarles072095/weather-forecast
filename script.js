@@ -131,7 +131,7 @@ function renderStoredSearches() {
     }
 
     $("li").on("click", function() {
-        $("#search-bar").val($(target).text());
+        $("#search-bar").val(target.text());
         searchBtn.click();
     });
 }

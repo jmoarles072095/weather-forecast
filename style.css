@@ -1,8 +1,28 @@
 .jumbotron-fluid {
     background-color: rgb(117, 183, 241);
+    background-image: url("https://pbs.twimg.com/media/D1oXFWYUYAAakBp.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    color: rgba(0, 0, 0, 0.792);
 }
 
-.row {
+.card {
+    background-color: lightgray;
+}
+
+
+/* .row {
+    background-color: lightgray;
+} */
+
+
+/* #forecast-header {
+    background-color: lightblue;
+} */
+
+#forecast-row {
     background-color: lightgray;
 }
 
