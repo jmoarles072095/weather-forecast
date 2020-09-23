@@ -10,7 +10,7 @@
 
 # link to deployed website
 
-1. https://jmoarles072095.github.io/weather-forecast/.
+https://jmoarles072095.github.io/weather-forecast/.
 
 # Deployed Website
 
