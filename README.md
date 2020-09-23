@@ -6,6 +6,7 @@
 5. Could not get local storage data items to stay on screen
 6. checked files grammar and fixed any misspelled words
 7. updated style.css content
+8. added link and scrennshot of deployed website
 
 
 # link to deployed website
